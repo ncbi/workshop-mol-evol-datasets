@@ -1,0 +1,4 @@
+pre-commit~=2.19
+jupyterlab~=3.4
+
+-r requirements.txt
