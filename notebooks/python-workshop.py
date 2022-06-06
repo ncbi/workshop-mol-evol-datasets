@@ -175,7 +175,7 @@ from ncbi.datasets.openapi import GeneApi
 #
 # Run it and see what happens.
 
-(5 + 3 ** 2) * 10
+(5 + 3**2) * 10
 
 # **Question**: What do you think the `**` does?
 #
