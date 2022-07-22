@@ -1,0 +1,19 @@
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.9
+  - mamba==0.16.0
+  - conda==4.10.3
+  - pip
+  - ca-certificates
+  - certifi
+  - openssl
+  - scipy
+  - tree
+  - unzip
+  - biopython
+  - ncbi-datasets-cli
+  - numpy
+  - matplotlib
+  - jq
