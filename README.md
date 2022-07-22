@@ -1,4 +1,4 @@
-<!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drice-codeathons/workshop-ncbi-data-with-python/main?filepath=notebooks%2Fworkshop.py) -->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncbi/workshop-mol-evol-datasets/master?labpath=notebooks%2Fworkshop.ipynb)
 
 # Introduction to molecular evolutionary analysis with NCBI Datasets and Python
 
